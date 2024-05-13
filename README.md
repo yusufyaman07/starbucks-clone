@@ -24,4 +24,4 @@ This project involves a simple clone of Starbucks' website. It is made using HTM
 
 # For your questions and suggestions
 
- .yusufyaman00000@gmail.com
+ - yusufyaman00000@gmail.com
