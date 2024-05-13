@@ -11,8 +11,8 @@ This project involves a simple clone of Starbucks' website. It is made using HTM
  Color Transitions: Smooth color transitions are provided by using CSS gradient and transition properties. These transitions add a modern and fluid atmosphere to the site.
 
 # Used Technologies
-.HTML5
-.CSS3
+HTML5
+CSS3
 -Flexbox
 -Grid
 -Transitions
@@ -24,4 +24,4 @@ This project involves a simple clone of Starbucks' website. It is made using HTM
 
 # For your questions and suggestions
 
- - yusufyaman00000@gmail.com
+yusufyaman00000@gmail.com
